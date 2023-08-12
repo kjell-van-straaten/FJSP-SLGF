@@ -1,0 +1,15 @@
+First line: number of jobs, number of machines (+ average number of machines per operations, not needed)
+
+From the second line, for each job:
+
+	- Number of operations in that job
+
+	For each operation:
+
+		- Number of machines compatible with this operation
+
+		- For each compatible machine: a pair of numbers (machine, processing time)
+
+For each machine and each operation:
+	
+	- Setup time between the first operation and every other operation on the machine considered

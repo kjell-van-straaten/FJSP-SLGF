@@ -1,4 +1,4 @@
-This repository contains the SLEGA that is proposed to solve the highly constrained FJSP outlined in this paper:
+This repository contains the SLGF that is proposed to solve the highly constrained FJSP outlined in this paper:
 ...
 
 it contains of the following 3 folders:
@@ -9,5 +9,9 @@ The datasets used in the work, contains both literature datasets and customly ge
 2 - heuristics
 Simple heuristics/algorithms implemented for benchmarking purposes
 
-3 - SLEGA
-The SLEGA outlined in the paper.
+3 - SLGF
+The SLGF outlined in the paper. Also has the vanila EGA which is the base of the SLGF.
+
+Rnning code:
+
+ADD
